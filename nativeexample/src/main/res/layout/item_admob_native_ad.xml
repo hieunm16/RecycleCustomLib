@@ -7,14 +7,14 @@
     android:orientation="vertical"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <com.google.nativetemplates.TemplateView
+    <com.example.nativeexample.nativetemplates.nativetemplates.TemplateView
         android:id="@+id/templateSmall"
         app:template_type="@layout/small_template_view"
         android:visibility="gone"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
-    <com.google.nativetemplates.TemplateView
+    <com.example.nativeexample.nativetemplates.nativetemplates.TemplateView
         android:id="@+id/templateMedium"
         app:template_type="@layout/medium_template_view"
         android:visibility="gone"
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content" />
 
 
-    <com.google.nativetemplates.TemplateView
+    <com.example.nativeexample.nativetemplates.nativetemplates.TemplateView
         android:id="@+id/templateCustom"
         app:template_type="@layout/custom_small_template_view"
         android:visibility="gone"

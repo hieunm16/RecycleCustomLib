@@ -1,7 +1,5 @@
 
-package com.google.nativetemplates;
-
-
+package com.example.nativeexample.nativetemplates.nativetemplates;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Typeface;

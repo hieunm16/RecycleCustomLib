@@ -1,4 +1,4 @@
-package com.google.adapter
+package com.example.nativeexample.nativetemplates.adapter
 
 import android.annotation.SuppressLint
 import android.view.ViewGroup

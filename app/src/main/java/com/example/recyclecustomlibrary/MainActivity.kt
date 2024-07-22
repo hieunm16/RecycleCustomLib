@@ -1,6 +1,6 @@
 package com.example.recyclecustomlibrary
 
-import com.google.adapter.AdmobNativeAdAdapter
+import com.example.nativeexample.nativetemplates.adapter.AdmobNativeAdAdapter
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager

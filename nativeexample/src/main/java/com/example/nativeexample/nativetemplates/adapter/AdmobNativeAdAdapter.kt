@@ -1,4 +1,4 @@
-package com.google.adapter
+package com.example.nativeexample.nativetemplates.adapter
 
 import android.content.Context
 import android.util.Log
@@ -12,8 +12,8 @@ import androidx.annotation.LayoutRes
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.nativeexample.R
-import com.google.nativetemplates.NativeTemplateStyle
-import com.google.nativetemplates.TemplateView
+import com.example.nativeexample.nativetemplates.nativetemplates.NativeTemplateStyle
+import com.example.nativeexample.nativetemplates.nativetemplates.TemplateView
 import com.google.android.gms.ads.AdListener
 import com.google.android.gms.ads.AdLoader
 import com.google.android.gms.ads.AdRequest
