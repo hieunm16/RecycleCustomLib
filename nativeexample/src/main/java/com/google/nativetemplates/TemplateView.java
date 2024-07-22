@@ -1,5 +1,5 @@
 
-package com.example.nativeexample.nativetemplates;
+package com.google.nativetemplates;
 
 
 import android.content.Context;

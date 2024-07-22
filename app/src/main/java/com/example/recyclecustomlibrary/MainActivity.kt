@@ -1,11 +1,8 @@
 package com.example.recyclecustomlibrary
 
-import adapter.AdmobNativeAdAdapter
+import com.google.adapter.AdmobNativeAdAdapter
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.recyclecustomlibrary.adapter.MyAdapter
 import com.example.recyclecustomlibrary.databinding.ActivityMainBinding
