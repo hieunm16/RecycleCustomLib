@@ -1,4 +1,4 @@
-package adapter
+package com.google.adapter
 
 import android.annotation.SuppressLint
 import android.view.ViewGroup
