@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "RecycleCustomLibrary"
 include(":app")
+include(":nativeexample")
