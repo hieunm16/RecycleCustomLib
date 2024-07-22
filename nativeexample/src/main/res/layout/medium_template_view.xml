@@ -8,6 +8,7 @@
       android:id="@+id/native_ad_view"
       android:padding="3dp"
       android:background="@drawable/outline_shape"
+
       >
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
