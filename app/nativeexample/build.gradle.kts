@@ -48,6 +48,17 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
+    publishing {
+        publications {
+            create<MavenPublication>("maven") {
+                groupId = "com.github.hieunm16"
+                artifactId = "RecycleCustomLibrary"
+                version = "1.0.0"
+
+                from(components["kotlin"])
+            }
+        }
+    }
 }
 
 dependencies {
